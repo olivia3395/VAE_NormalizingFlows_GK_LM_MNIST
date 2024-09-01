@@ -28,21 +28,25 @@ This project aims to elevate the performance of a Variational Autoencoder (VAE) 
 1. **VAE with Combined Flow**  
    
    ![VAE with Combined Flow](output_74_0.png)
+   
    - The generated images are blurry, with unclear digits, indicating poor performance in both image quality and clarity.
    ![vae_combinedflow](output_74_1.png)
 2. **VAE-GAN**
+   
    ![VAE-GAN](output_81_0.png)
    - Slightly better results than the first, but the generated images still lack detail and clarity, with many digits indistinct.
 
    ![vae-gan](output_81_1.png)
 
 3. **Basic Normalizing Flows and Multivariate g-k with LM Optimization**
+
    ![Basic Normalizing Flows and Multivariate g-k with LM Optimization](output_87_0.png)
    - This approach shows noticeable improvement, with clearer digit formation, though some images are still blurry and hard to distinguish.
 
    ![Basic Normalizing Flows and Multivariate g-k](output_87_1.png)
 
 4. **Introducing Radial Flow with Multivariate g-k and LM Optimization**
+
    ![Introducing Radial Flow with Multivariate g-k and LM Optimization](output_93_0.png)
    - The final plot demonstrates the best results, with distinct, well-formed digits, clear separation, and overall higher quality of generated images.
 
