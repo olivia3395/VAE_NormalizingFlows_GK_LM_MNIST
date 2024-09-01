@@ -1,6 +1,5 @@
 
-# Project Title
-**Enhancing Variational Autoencoder with Normalizing Flows: A Multivariate g-k Distribution and Levenberg-Marquardt Optimization Approach for MNIST Data Generation and Reconstruction**
+# Project: Enhancing Variational Autoencoder with Normalizing Flows: A Multivariate g-k Distribution and Levenberg-Marquardt Optimization Approach for MNIST Data Generation and Reconstruction
 
 ## Overview
 This project aims to elevate the performance of a Variational Autoencoder (VAE) by integrating Normalizing Flows with a Multivariate g-k Distribution, optimized using the Levenberg-Marquardt (LM) algorithm. The enhancements are applied to the MNIST dataset to improve the quality and diversity of generated images.
