@@ -61,7 +61,6 @@ The final plot shows the best classification results:
 - ## Results
 
 - The enhanced VAE model, utilizing the **Multivariate g-k Distribution** and **Levenberg-Marquardt Optimization**, shows significant improvements in generating realistic and diverse images. These enhancements are clearly demonstrated in the visualizations and quantitative metrics included in the results folder. The combination of the g-k distribution for flexible latent space modeling and the precise parameter optimization via Levenberg-Marquardt has proven highly effective, leading to superior performance in both image generation and reconstruction tasks.
-- 
 
 ## Contributions
 - **Multivariate g-k Distribution Integration**: Introduced a flexible and powerful base distribution in the VAE’s latent space transformation.
